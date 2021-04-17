@@ -7,4 +7,4 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 
-Art.create(name: 'Charity', artform: 'resin', description: 'Set of 4 Coasters', price: '$24.99')
+Art.create(artist: 'Charity', artform: 'resin', description: 'Set of 4 Coasters', price: '$24.99')
